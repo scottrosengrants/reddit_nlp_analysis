@@ -1,0 +1,4 @@
+,data,vectorizer,model,hyperparameters,train_score,test_score,change,time_fit,subreddits
+10,Titles,TFIDF,Logistic - CV5,Defaults,0.9716958646168514,0.9714030384271671,-0.0002928261896842921,0.3405909538269043,datascience(1) & eat healthy(0)
+11,Titles,TFIDF,Logistic - CV5,"{'lr__solver': 'lbfgs', 'tfidf__max_df': 0.7, 'tfidf__max_features': 2000, 'tfidf__ngram_range': (1, 1), 'tfidf__stop_words': 'english'}",0.9684185436777499,0.9667560321715818,-0.0016625115061681406,0.11547589302062988,datascience(1) & eat healthy(0)
+12,Titles,TFIDF,Logistic - CV5,"{'lr__C': 1, 'lr__penalty': 'l2', 'lr__solver': 'liblinear', 'tfidf__max_df': 0.7, 'tfidf__max_features': 2000, 'tfidf__ngram_range': (1, 1), 'tfidf__stop_words': 'english'}",0.9684185436777499,0.9667560321715818,-0.0016625115061681406,0.11554098129272461,datascience(1) & eat healthy(0)
